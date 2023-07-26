@@ -1,8 +1,8 @@
 {
     "name": "basic-socket",
     "version": "0.0.1",
-    "description": "Communication between Arduino and HTML/JavaScript",
     "dependencies": {
+        "node-fetch": "^3.3.1",
         "serialport": "^9.0.1",
         "socket.io": "^2.0.4"
     }
